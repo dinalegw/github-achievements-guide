@@ -35,7 +35,7 @@ This guide is designed for:
 * [Open Sourcerer](./achievements/open-sourcerer/README.md)
 * [Public Sponsor](./achievements/public-sponsor/README.md)
 * [Discussion + PR examples](./examples/pull-request-examples.md)
-* [Live landing page](./website/index.html)
+* [Live landing page](./index.html)
 
 ---
 
@@ -65,7 +65,7 @@ This guide is designed for:
 * `docs/` — professional guide content, setup workflow, frequently asked questions, and resources
 * `achievements/` — detailed achievement walkthroughs, examples, and checklists
 * `examples/` — contribution-ready discussion and pull request examples
-* `website/` — polished GitHub Pages landing page and responsive UI
+* `website/` — source templates and landing page source files
 * `assets/` — SVG illustrations and icons used by the site and documentation
 
 ---

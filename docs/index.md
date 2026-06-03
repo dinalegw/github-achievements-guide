@@ -7,6 +7,7 @@ Welcome to the professional GitHub achievements handbook for 2026. This guide he
 * [Setup guide](./setup.md)
 * [Frequently asked questions](./faq.md)
 * [Resources and references](./resources.md)
+* [Live landing page](../index.html)
 
 ## Achievement library
 
