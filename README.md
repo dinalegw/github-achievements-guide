@@ -1,137 +1,75 @@
 # 🏆 GitHub Profile Achievements Guide (2026)
 
-![GitHub stars](https://img.shields.io/github/stars/dinalegw/github-achievements-guide?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dinalegw/github-achievements-guide?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/dinalegw/github-achievements-guide)
+A polished, modern handbook for unlocking GitHub profile achievements with purpose, consistency, and community impact.
 
 ---
 
-## 🚀 About This Project
+## Why this guide exists
 
-This is a **complete, beginner-friendly and advanced guide** to unlocking all GitHub Profile Achievements in 2026.
+GitHub achievements are more than badges. They represent productive collaboration, open-source momentum, and a stronger developer presence.
 
-It is designed for:
+This guide is designed for:
 
-* Beginners learning GitHub
-* Developers improving their profile
-* Open-source contributors
-* Students building portfolios
-
----
-
-## 🔍 What You Will Learn
-
-* How GitHub Achievements work
-* Fastest way to unlock each badge
-* Real examples + strategies
-* Common mistakes to avoid
-* How to grow your GitHub profile professionally
+* contributors who want a clear achievement plan
+* learners building a public GitHub profile
+* open-source advocates looking for actionable steps
+* anyone preparing a professional developer portfolio
 
 ---
 
-## 🏆 Achievements Covered
+## What you get
 
-### 🟢 Active Achievements
-
-* 🦈 Pull Shark
-* 👯 Pair Extraordinaire
-* ⚡ Quickdraw
-* 🤠 YOLO
-* 🧠 Galaxy Brain
-* ⭐ Starstruck
-* ❤️ Heart On Your Sleeve
-* 🌍 Open Sourcerer
-* 💰 Public Sponsor
-
-### 🔴 Legacy Achievements (No longer available)
-
-* 🚀 Mars 2020 Contributor
-* 🧊 Arctic Code Vault Contributor
+* step-by-step achievement walkthroughs
+* up-to-date strategies for 2026
+* professional examples and contribution patterns
+* FAQ, setup, and resource references
+* a GitHub Pages-ready landing page
 
 ---
 
-## 🧭 Quick Navigation
+## Explore the guide
 
-* [Pull Shark Guide](./achievements/pull-shark/)
-* [Galaxy Brain Guide](./achievements/galaxy-brain/)
-* [Starstruck Guide](./achievements/starstruck/)
-* [Pair Extraordinaire Guide](./achievements/pair-extraordinaire/)
-* [Open Sourcerer Guide](./achievements/open-sourcerer/)
-* [Documentation Home](./docs/index.md)
-* [Examples](./examples/pull-request-examples.md)
-* [Website Demo](./website/index.html)
-
----
-
-## ⚡ How to Use This Repo
-
-1. Open any achievement folder
-2. Follow step-by-step instructions
-3. Apply on your GitHub account
-4. Track your progress
+* [Documentation home](./docs/index.md)
+* [Pull Shark](./achievements/pull-shark/README.md)
+* [Galaxy Brain](./achievements/galaxy-brain/README.md)
+* [Open Sourcerer](./achievements/open-sourcerer/README.md)
+* [Public Sponsor](./achievements/public-sponsor/README.md)
+* [Discussion + PR examples](./examples/pull-request-examples.md)
+* [Live landing page](./website/index.html)
 
 ---
 
-## 💡 Why This Repo Exists
+## Achievements covered
 
-Most GitHub guides are:
+### Active achievements
 
-* ❌ outdated
-* ❌ unclear
-* ❌ incomplete
+* Pull Shark
+* Pair Extraordinaire
+* Quickdraw
+* YOLO
+* Galaxy Brain
+* Starstruck
+* Heart On Your Sleeve
+* Open Sourcerer
+* Public Sponsor
 
-This project is:
+### Legacy achievements
 
-* ✅ updated for 2026
-* ✅ beginner-friendly
-* ✅ structured like real documentation
-* ✅ optimized for search engines (SEO)
-
----
-
-## 🧠 SEO Keywords
-
-This repo helps people searching:
-
-* GitHub achievements guide
-* How to get Galaxy Brain badge
-* GitHub Pull Shark tutorial
-* GitHub Starstruck explanation
-* GitHub profile optimization
-* GitHub badges list 2026
+* Mars 2020 Contributor
+* Arctic Code Vault Contributor
 
 ---
 
-## 🤝 Contribute
+## Project structure
 
-Want to improve this guide?
-
-* Fork this repo
-* Improve content
-* Submit a pull request
-
----
-
-## ⭐ Support
-
-If this project helps you:
-
-* ⭐ Star this repository
-* 🍴 Fork it
-* 📢 Share it with others
+* `docs/` — professional guide content, setup workflow, frequently asked questions, and resources
+* `achievements/` — detailed achievement walkthroughs, examples, and checklists
+* `examples/` — contribution-ready discussion and pull request examples
+* `website/` — polished GitHub Pages landing page and responsive UI
+* `assets/` — SVG illustrations and icons used by the site and documentation
 
 ---
 
-## 🧱 Project Structure
+## Contribution guidance
 
-* `docs/` — guides, setup instructions, FAQ, and resources
-* `achievements/` — individual achievement walkthroughs
-* `examples/` — example discussion and pull request content
-* `website/` — simple GitHub Pages demo site
-* `assets/` — placeholder folders for images, banners, and icons
-
----
-
-## 🚀 Goal
-
-To help developers build strong GitHub profiles through real achievements and contributions.
+We welcome edits that improve clarity, update requirements, or add achievements. Please open a pull request with a short summary of your changes.

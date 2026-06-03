@@ -2,15 +2,14 @@
 
 ## Overview
 
-Mars 2020 Contributor is a legacy badge from GitHub's Mars 2020 initiative. It is no longer available to unlock, but it remains part of GitHub achievement history.
-
-## Notes
-
-* This achievement cannot be earned in 2026.
-* It was issued for contributions during the Mars 2020 program.
-* The badge remains a useful reference for historical GitHub recognition.
+Mars 2020 Contributor is a legacy badge from GitHub's historical archive. It recognizes contributions made during the Mars 2020 initiative.
 
 ## Why it matters
 
-* Legacy achievements help explain how GitHub profile badges evolved.
-* They provide context for newer achievements and milestones.
+This achievement is part of GitHub's contribution history. It shows how profile badges have evolved and honors the open-source community's past milestones.
+
+## Notes
+
+* This badge is no longer available to earn in 2026.
+* It remains as a legacy reference in this guide.
+* Focus on active achievements while understanding historical context.

@@ -2,30 +2,40 @@
 
 ## Overview
 
-Heart On Your Sleeve rewards authentic, empathetic engagement in open source. It celebrates contributors who communicate kindly and support others in the community.
+Heart On Your Sleeve rewards honest, empathetic contributions in public GitHub discussions and issues. It celebrates human-centered collaboration.
+
+## Why it matters
+
+Empathy and authenticity are critical in open source. This badge shows you can contribute with kindness, clarity, and respect.
 
 ## Requirements
 
-* Share genuine feedback or encouragement in public GitHub discussions or issues.
-* Contribute with empathy and helpful intent.
-* Keep the interaction positive and visible.
+* Share genuine feedback or encouragement on GitHub.
+* Contribute in a way that supports others publicly.
+* Keep your communication constructive.
 
 ## Step-by-step
 
-1. Join a discussion or issue thread in a public repo.
-2. Share a supportive comment, idea, or solution.
-3. Respond thoughtfully to other contributors.
-4. Keep the conversation constructive and respectful.
-5. Follow up if the discussion continues.
+1. Find a discussion or issue that needs a thoughtful response.
+2. Add helpful feedback, a suggestion, or reassurance.
+3. Avoid overly critical language and focus on solutions.
+4. Follow the conversation to provide follow-up support.
 
 ## Example
 
-* Thank a maintainer for their work and offer help with a new issue.
-* Suggest an improvement in a way that values the existing codebase.
-* Ask clarifying questions that help everyone understand the problem.
+* Thank a contributor for a useful feature and offer a follow-up idea.
+* Suggest a clearer error message with a friendly explanation.
+* Respond to a community question with helpful context and resources.
+
+## Success checklist
+
+* The message is positive and constructive.
+* You helped move the discussion forward.
+* You acknowledged the project maintainer or contributor.
+* You kept your tone respectful and inclusive.
 
 ## Tips
 
-* Use kind language even when giving critical feedback.
-* Avoid making assumptions about contributors or project goals.
-* Show that you care about the project and the people behind it.
+* Choose empathy over perfection.
+* Ask clarifying questions instead of making assumptions.
+* Use supportive language, especially in public threads.

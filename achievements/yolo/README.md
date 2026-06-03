@@ -2,30 +2,40 @@
 
 ## Overview
 
-YOLO is earned by making a bold public contribution that adds value quickly. It is about taking initiative and delivering a useful change with confidence.
+YOLO is awarded for bold, thoughtful contributions that move a public repository forward. It is about taking initiative in a low-risk, high-value way.
+
+## Why it matters
+
+This badge reflects confidence and practical contribution. It shows you can identify an opportunity and act on it with a clear, measurable result.
 
 ## Requirements
 
-* Make a contribution in a public repository that is noticeable and useful.
-* Take a confident, low-risk approach to fix a problem or add a feature.
-* Keep your PR or issue contribution clear and well-explained.
+* Deliver a meaningful public contribution.
+* Keep the change focused and easy to review.
+* Explain the value of the contribution clearly.
 
 ## Step-by-step
 
-1. Choose a project with a straightforward improvement opportunity.
-2. Read the contribution guidelines and open an issue if needed.
-3. Submit a change that addresses a real problem or gap.
-4. Explain why your change helps the project.
-5. Share your work and iterate if maintainers request changes.
+1. Find a project with a small, impactful improvement opportunity.
+2. Confirm the change aligns with the repo's standards.
+3. Submit a PR with a strong description and motivation.
+4. Respond promptly to any review requests.
+5. Close the PR once the maintainer approves the change.
 
 ## Example
 
-* Add a missing example to a README and improve installation instructions.
-* Fix a bug in a small helper function and document the behavior.
-* Make a tiny feature addition that helps first-time users.
+* Add a missing example to a README, improve a setup script, or fix a small bug.
+* Make the contribution bold enough to matter, but safe enough to be accepted quickly.
+
+## Success checklist
+
+* The PR contains a clear benefit.
+* The change is scoped and well-tested.
+* The contribution is easy for maintainers to review.
+* The PR description explains the value of the work.
 
 ## Tips
 
-* Start with clarity: what problem are you solving?
-* Keep changes simple so reviewers can accept them quickly.
-* Be bold, but avoid risky or overly large changes.
+* Avoid overly large changes for this badge.
+* Pick issues that are high-impact but limited in scope.
+* Keep your documentation and tests current.

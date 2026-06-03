@@ -1,25 +1,35 @@
 # Setup
 
-This guide helps you prepare for the GitHub achievement challenges.
+Prepare your GitHub profile and contributor workflow before you start earning badges. A polished foundation makes every achievement easier.
 
-## 1. Create a GitHub account
+## 1. Polish your profile
 
-If you don't already have a GitHub account, sign up at https://github.com.
+* Add a professional avatar and bio.
+* Include your location, role, or interests.
+* Add contact details or portfolio links.
+* Ensure your profile is public and easy to read.
 
-## 2. Configure your profile
+## 2. Configure your contribution workflow
 
-* Add a profile picture and bio.
-* Link your website or portfolio if available.
-* Set a public email address if you want to share contact info.
+* Set your Git identity: name, email, and GitHub username.
+* Use a repository manager or project board to track contributions.
+* Star projects you plan to help.
+* Watch repositories that need ongoing support.
 
-## 3. Connect with communities
+## 3. Choose projects intentionally
 
-* Follow open-source projects you like.
-* Star repos you use and enjoy.
-* Join discussions in GitHub Issues or Discussions.
+* Pick repositories with clear contribution guidelines.
+* Look for active maintainers and recent commits.
+* Prefer projects that welcome first-time contributors.
+* Start with documentation, tests, or minor bug fixes.
 
-## 4. Use this guide effectively
+## 4. Save your progress
 
-* Pick one achievement at a time.
-* Read the goal, requirements, and examples.
-* Track progress in a separate project board or note.
+Use a simple note or spreadsheet to track:
+
+* achievement target
+* repositories worked on
+* pull request URLs
+* review and follow-up status
+
+This helps you move through badges efficiently and maintain credibility.

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 700 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#E0F2FE" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="520" rx="40" fill="url(#bgGrad)"/>
+  <rect x="64" y="72" width="572" height="376" rx="32" fill="url(#cardGrad)"/>
+  <path d="M96 132H604V168H96V132Z" fill="#0F172A" opacity="0.85"/>
+  <path d="M96 192H540V220H96V192Z" fill="#0F172A" opacity="0.75"/>
+  <path d="M96 252H460V280H96V252Z" fill="#0F172A" opacity="0.65"/>
+  <circle cx="180" cy="364" r="40" fill="#2563EB"/>
+  <circle cx="300" cy="368" r="32" fill="#38BDF8"/>
+  <circle cx="420" cy="356" r="28" fill="#60A5FA"/>
+  <rect x="152" y="392" width="396" height="16" rx="8" fill="#0F172A" opacity="0.12"/>
+  <rect x="152" y="424" width="296" height="16" rx="8" fill="#0F172A" opacity="0.12"/>
+  <text x="100" y="130" fill="#0F172A" font-size="24" font-weight="700">Guide your next achievement</text>
+</svg>

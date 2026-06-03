@@ -2,30 +2,40 @@
 
 ## Overview
 
-Open Sourcerer is earned by contributing frequently across public open-source projects. It demonstrates persistence, consistency, and a broad commitment to community collaboration.
+Open Sourcerer is earned through consistent contributions across multiple public projects. It celebrates ongoing open-source participation.
+
+## Why it matters
+
+This badge shows you can sustain contributions over time and across repositories, rather than making a single one-off change.
 
 ## Requirements
 
 * Contribute to multiple public repositories.
-* Offer useful contributions such as code, docs, tests, or reviews.
-* Show sustained open-source activity over time.
+* Offer code, documentation, tests, reviews, or issue support.
+* Demonstrate consistent activity across different projects.
 
 ## Step-by-step
 
-1. Select several projects that align with your interests.
-2. Make small, meaningful contributions in each repository.
-3. Keep a record of your work to track progress.
-4. Return to repositories with follow-up improvements.
-5. Grow your visibility through consistent contributions.
+1. Choose several repositories that match your interests.
+2. Make repeatable contributions in each project.
+3. Track your work with notes or a project board.
+4. Return to each repository with follow-up improvements.
+5. Maintain a consistent cadence over weeks.
 
 ## Example
 
-* Contribute docs fixes to one repo, add a test to another, and review a PR in a third.
-* Follow up on earlier contributions by adding automation or cleanup.
-* Use a personal checklist to ensure each repo gets a useful update.
+* Add docs improvements in one repo, automated tests in another, and a PR review in a third.
+* Return to earlier contributions to clean up issues or improve coverage.
+
+## Success checklist
+
+* You worked across multiple public repositories.
+* Each contribution was valuable and intentional.
+* You followed the project's contribution guide.
+* You kept a record of your activity and next steps.
 
 ## Tips
 
-* Spread your work across several repos rather than only one.
-* Mix contribution types: docs, code, review, and issues.
-* Prioritize quality and helpfulness in every repository.
+* Mix contribution types: issues, PRs, docs, and reviews.
+* Keep contributions small and consistent.
+* Prioritize projects that welcome repeat contributors.

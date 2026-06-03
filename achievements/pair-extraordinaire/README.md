@@ -2,30 +2,41 @@
 
 ## Overview
 
-Pair Extraordinaire is awarded for working closely with another contributor on a public GitHub project. This achievement celebrates collaboration, shared problem solving, and co-authored progress.
+Pair Extraordinaire rewards meaningful collaboration with another contributor on a public repository. It celebrates shared work and a team-oriented approach.
+
+## Why it matters
+
+Working alongside others is a valuable professional skill. This badge shows you can contribute in a collaborative environment and support shared goals.
 
 ## Requirements
 
-* Collaborate with another person on a public repository.
-* Make a contribution that includes shared review, discussion, or code co-authorship.
-* Keep the process visible through issue comments, PR reviews, or co-author commits.
+* Contribute to a public repository with another person.
+* Demonstrate shared review, discussion, or co-authored code.
+* Keep the collaboration visible through issue comments, pull request exchanges, or co-author metadata.
 
 ## Step-by-step
 
-1. Join a repo where contributors welcome collaboration.
-2. Offer to pair on an issue, feature, or bug fix.
-3. Coordinate through issue threads, comments, or a live session.
-4. Create a PR with clear notes about your collaboration.
-5. Use `Co-authored-by:` when both people contribute to the same commit.
+1. Join a project that welcomes collaborative contributions.
+2. Coordinate work through issues, discussions, or direct messages.
+3. Work together on a feature, fix, or documentation update.
+4. Use `Co-authored-by:` for shared commits if you both author code.
+5. Keep your discussion professional and constructive.
 
 ## Example
 
-* Suggest a fix in an issue comment and ask a maintainer to review it with you.
-* Work together on the same pull request, sharing review notes and follow-up tasks.
-* Add a co-author line if another contributor writes or reviews a significant portion.
+* Invite another contributor to review your patch while you improve the feature.
+* Create a PR and discuss implementation options in the issue thread.
+* Use shared commit messages when both participants contribute to the same work.
+
+## Success checklist
+
+* The collaboration was public and visible.
+* You communicated clearly throughout the process.
+* The final PR includes evidence of joint effort.
+* You left helpful review comments or follow-up actions.
 
 ## Tips
 
-* Be transparent about what you contributed.
-* Stay respectful, even when you disagree.
-* Use GitHub discussions or comments to document your pair work.
+* Be open about your intent to collaborate.
+* Keep the scope manageable and well-defined.
+* Ask questions and listen to the maintainer's guidance.

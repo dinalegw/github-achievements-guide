@@ -2,30 +2,40 @@
 
 ## Overview
 
-Starstruck is awarded for engaging with well-known or popular repositories in a meaningful way. This achievement is about making contributions where the project is already recognized.
+Starstruck is earned by contributing to or engaging with a well-known public repository. It reflects meaningful participation in a project with visibility.
+
+## Why it matters
+
+Working with popular repositories demonstrates that you can add value where many people notice and rely on the code.
 
 ## Requirements
 
-* Work with a popular public repository or highly active project.
-* Submit a contribution such as a PR, review, or helpful issue comment.
-* Engage with a project that has earned community attention.
+* Contribute to a notable public project or active open-source repository.
+* Submit a pull request, review, or discussion contribution.
+* Make the contribution relevant and useful.
 
 ## Step-by-step
 
-1. Find a high-star or actively maintained repository.
-2. Read its open issues and contributor docs.
-3. Add a useful PR, meaningful review, or thoughtful comment.
-4. Reference the popularity of the repo while keeping your change valuable.
-5. Keep the contribution visible and constructive.
+1. Select a recognized repository with a clear contribution path.
+2. Offer a fix, review, or improvement that matters to the project.
+3. Create a PR or submit a well-crafted issue comment.
+4. Keep your contribution professional and evidence-based.
 
 ## Example
 
-* Fix a bug in the docs of an established library.
-* Review a pull request on a popular toolkit and suggest a test.
-* Improve onboarding instructions for an active open-source project.
+* Fix a small but important bug in a popular library's docs.
+* Review a PR from another contributor with constructive feedback.
+* Improve onboarding information for a widely used package.
+
+## Success checklist
+
+* The contribution is visible and relevant.
+* You chose a repository with active community participation.
+* Your work helps maintainers or new users.
+* You remained respectful and clear in your communication.
 
 ## Tips
 
-* Don’t chase stars only — add genuine value.
-* Choose repos where your skills match the project needs.
-* Keep contributions respectful and well-researched.
+* Avoid chasing popularity without value.
+* Pick a repository that fits your skills.
+* Keep contributions concise and easy to review.

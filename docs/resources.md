@@ -1,21 +1,26 @@
 # Resources
 
-## Official GitHub information
+## GitHub learning and profile resources
 
-* https://github.com/features/activity
-* https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile
+* [GitHub Docs: Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile)
+* [GitHub Docs: Open source guides](https://opensource.guide/)
+* [GitHub Sponsors](https://github.com/sponsors)
 
-## Community articles
+## Contribution tools
 
-* GitHub profile tips and public contribution ideas
-* Open-source collaboration guides
+* GitHub issue search for `good first issue`
+* GitHub Discussions for collaboration opportunities
+* GitHub Actions for test automation and releases
 
-## Example projects to explore
+## Community resources
 
-* repositories with active issue triage
-* projects that welcome first-time contributors
+* Open-source project contribution guides
+* Maintainer onboarding documentation
+* Public repository issue templates
 
-## Useful tools
+## Recommended workflow
 
-* GitHub Actions for contribution tracking
-* GitHub Sponsors dashboards
+1. Read the project's contributing guide.
+2. Open a discussion if you need clarification.
+3. Submit small, intentional pull requests.
+4. Follow up promptly and keep your changes tidy.

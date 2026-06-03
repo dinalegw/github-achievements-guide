@@ -2,20 +2,20 @@
 
 ## What are GitHub achievements?
 
-GitHub achievements are badges shown on your profile for actions like code contributions, sponsorships, or collaboration.
+GitHub achievements are profile badges that reflect your activity, sponsorship, collaboration, and open-source participation.
 
-## Are these achievements still available in 2026?
+## Is this guide still accurate for 2026?
 
-Most are available but GitHub may retire some over time. This guide separates active achievements from legacy badges.
+Yes. The content is written for the current GitHub achievement landscape, with active indicators and practical paths through each badge.
 
-## How long does it take to unlock a badge?
+## Can I earn multiple achievements simultaneously?
 
-It depends on the achievement. Some badges can be unlocked in a day, while others require sustained contributions.
+Absolutely. Many achievements overlap — for example, a strong open-source PR can contribute to Pull Shark, Galaxy Brain, and Open Sourcerer.
 
-## Do I need public repositories?
+## Do these achievements require public contributions?
 
-Yes. Most achievement progress is tracked through public contributions, stars, and sponsorship activity.
+Yes. Most badges are tied to public GitHub activity, so open-source contributions and visible sponsorships are the best paths.
 
-## Can I earn multiple achievements at once?
+## What should I do if GitHub changes badge requirements?
 
-Yes. Many achievements can be earned in parallel when you contribute to multiple projects, participate in discussions, or sponsor creators.
+Open an issue or submit a pull request to update the guide. This repository is intended to remain current with GitHub's achievement system.
