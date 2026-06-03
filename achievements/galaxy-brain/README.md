@@ -2,15 +2,30 @@
 
 ## Overview
 
-Galaxy Brain celebrates smart, creative contributions that improve code quality or workflow.
+Galaxy Brain celebrates smart contributions that improve workflows, automation, or code quality. It rewards solutions that show insight and make the project stronger.
 
-## How to unlock
+## Requirements
 
-1. Share an innovative improvement or solution.
-2. Add documentation, automation, or testing.
-3. Demonstrate clear understanding of the project.
+* Deliver a contribution that demonstrates thoughtful reasoning.
+* Improve a repository with a better design, test, or automation.
+* Explain the value of your improvement clearly.
+
+## Step-by-step
+
+1. Review the project and identify an area for improvement.
+2. Propose a change that removes friction or increases reliability.
+3. Open a PR with tests, documentation, or automation support.
+4. Describe why the change is a smarter approach.
+5. Repeat with another repository when possible.
+
+## Example
+
+* Add an automated test for a bug that was previously uncovered.
+* Introduce a GitHub Action to simplify release steps.
+* Refactor a complex function into smaller, easier-to-understand pieces.
 
 ## Tips
 
-* Propose a new workflow or automation step.
-* Add a test case for an edge condition.
+* Focus on quality over quantity.
+* Use metrics or examples to show why your change matters.
+* Share your thinking in the PR description.

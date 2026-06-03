@@ -1,10 +1,16 @@
 # Arctic Code Vault Contributor
 
-## Legacy Badge
+## Overview
 
-Arctic Code Vault Contributor is a legacy achievement issued for contributions preserved in GitHub's archive. It is no longer available to earn in 2026.
+Arctic Code Vault Contributor is a legacy GitHub achievement for contributors whose work was preserved in GitHub's Arctic Code Vault archive. It is no longer available to earn.
 
 ## Notes
 
-* This badge is part of GitHub's historical achievements.
-* Use this guide to understand legacy badge context and focus on current achievements.
+* This badge is archival and historical.
+* It recognizes contributions saved in GitHub's long-term archive.
+* Focus on current achievements while preserving legacy context.
+
+## Why it matters
+
+* It shows how GitHub once rewarded long-term preservation.
+* Legacy badges remain part of your profile story.
