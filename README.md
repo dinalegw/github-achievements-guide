@@ -52,11 +52,14 @@ It is designed for:
 
 ## 🧭 Quick Navigation
 
-* [Pull Shark Guide](./pull-shark/)
-* [Galaxy Brain Guide](./galaxy-brain/)
-* [Starstruck Guide](./starstruck/)
-* [Pair Extraordinaire Guide](./pair-extraordinaire/)
-* [Open Sourcerer Guide](./open-sourcerer/)
+* [Pull Shark Guide](./achievements/pull-shark/)
+* [Galaxy Brain Guide](./achievements/galaxy-brain/)
+* [Starstruck Guide](./achievements/starstruck/)
+* [Pair Extraordinaire Guide](./achievements/pair-extraordinaire/)
+* [Open Sourcerer Guide](./achievements/open-sourcerer/)
+* [Documentation Home](./docs/index.md)
+* [Examples](./examples/pull-request-examples.md)
+* [Website Demo](./website/index.html)
 
 ---
 
@@ -116,6 +119,16 @@ If this project helps you:
 * ⭐ Star this repository
 * 🍴 Fork it
 * 📢 Share it with others
+
+---
+
+## 🧱 Project Structure
+
+* `docs/` — guides, setup instructions, FAQ, and resources
+* `achievements/` — individual achievement walkthroughs
+* `examples/` — example discussion and pull request content
+* `website/` — simple GitHub Pages demo site
+* `assets/` — placeholder folders for images, banners, and icons
 
 ---
 
